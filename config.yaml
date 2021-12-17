@@ -1,0 +1,29 @@
+baseURL: 'https://xmr.gift/'
+languageCode: 'en-us'
+title: 'xmr.gift: Monero gift cards'
+theme: PaperMod
+
+minify:
+  minifyOutput: true
+
+params:
+  defaultTheme: dark
+  disableThemeToggle: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: Themes
+          url: themes
+          weight: 5
+        - name: HowTo
+          url: howto
+          weight: 6
+
+    homeInfoParams:
+      #Title: "PaperMod"
+      Content: >
+        Monero gift cards are an easy way to give Monero.
