@@ -1,0 +1,23 @@
+name: Deploy site to GitHub Pages
+on:
+  push:
+    branches:
+      - master
+jobs:
+  build:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v2
+        with:
+          submodules: "true"
+
+      - name: Deploy the site
+        uses: benmatselby/hugo-deploy-gh-pages@master
+        env:
+          TARGET_REPO: xmrdotgift/xmrdotgift.github.io
+          TARGET_BRANCH: master
+          TOKEN: ${{ secrets.TOKEN }}
+          #HUGO_ARGS: '-t academic'
+          CNAME: xmrdotgift.github.io
