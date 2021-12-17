@@ -20,4 +20,4 @@ jobs:
           TARGET_BRANCH: master
           TOKEN: ${{ secrets.TOKEN }}
           #HUGO_ARGS: '-t academic'
-          CNAME: xmrdotgift.github.io
+          CNAME: xmr.gift
