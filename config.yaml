@@ -9,6 +9,11 @@ minify:
 params:
   defaultTheme: dark
   disableThemeToggle: true
+  socialIcons:
+    - name: github
+      url: "https://github.com/xmrdotgift"
+    - name: matrix
+      url: "https://"
 
 languages:
   en:
