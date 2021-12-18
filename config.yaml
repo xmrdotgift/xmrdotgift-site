@@ -9,6 +9,7 @@ minify:
 params:
   defaultTheme: dark
   disableThemeToggle: true
+  disableScrollToTop: true
   socialIcons:
     - name: github
       url: "https://github.com/xmrdotgift"
