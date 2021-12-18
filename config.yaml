@@ -29,6 +29,6 @@ languages:
           weight: 6
 
     homeInfoParams:
-      #Title: "PaperMod"
+      Title: "Monero gift cards"
       Content: >
-        Monero gift cards are an easy way to give Monero.
+        Easy way to give Monero.
