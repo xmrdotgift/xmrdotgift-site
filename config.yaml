@@ -24,8 +24,8 @@ languages:
         - name: Themes
           url: themes
           weight: 5
-        - name: HowTo
-          url: howto
+        - name: Learn
+          url: learn
           weight: 6
 
     homeInfoParams:
