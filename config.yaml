@@ -22,8 +22,8 @@ languages:
     weight: 1
     menu:
       main:
-        - name: Themes
-          url: themes
+        - name: Templates
+          url: templates
           weight: 5
         - name: Learn
           url: learn
