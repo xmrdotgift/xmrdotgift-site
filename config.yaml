@@ -14,7 +14,7 @@ params:
     - name: github
       url: "https://github.com/xmrdotgift"
     - name: matrix
-      url: "https://"
+      url: "https://matrix.to/#/#xmr.gift:matrix.org"
 
 languages:
   en:
