@@ -9,7 +9,7 @@ description: ""
 |    | Metric | Imperial |
 |----|:-----------:|:------:|
 | **Card** | 85.6mm &times; 53.95mm | 3.37 Inch &times; 2.125 Inch |
-| **QR code** | X.YY &times; X.YYmm | X.YY Inch &times; X.YY Inch |
+| **QR code** | X.YYmm &times; X.YYmm | X.YY Inch &times; X.YY Inch |
 
 ### Author
 
