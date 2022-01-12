@@ -49,8 +49,11 @@ let templates = {
 }
 
 function updateTemplatePreview(template) {
-    let preview = document.getElementById("template_preview");
-    preview.setAttribute("src", "/templates/"+template+"/front.png");
+    let previewFront = document.getElementById("template_preview_front");
+    previewFront.setAttribute("src", "/templates/"+template+"/front.png");
+
+    let previewBack = document.getElementById("template_preview_back");
+    previewBack.setAttribute("src", "/templates/"+template+"/back.png");
 }
 
 function updateView(format, template, num_pages) {
