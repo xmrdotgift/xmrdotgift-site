@@ -27,24 +27,28 @@ let formats = {
     "a4": {
         "width": 793,
         "height": 1122
+    },
+    "Letter": {
+        "width": 815,
+        "height": 1053
     }
 };
 
 let templates = {
     "black": {
-        "qr_size": 92
+        "qr_size": 132
     },
     "circles": {
-        "qr_size": 70
+        "qr_size": 132
     },
     "gift4you": {
-        "qr_size": 119
+        "qr_size": 132
     },
     "giftbox": {
-        "qr_size": 70
+        "qr_size": 132
     },
     "orange": {
-        "qr_size": 94
+        "qr_size": 132
     }
 }
 
