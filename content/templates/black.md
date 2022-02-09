@@ -6,10 +6,10 @@ description: Modern black-and-yellow gift card.
 
 ### Dimensions
 
-|    | Metric | Imperial |
-|----|:-----------:|:------:|
+|    |         Metric         |           Imperial           |
+|----|:----------------------:|:----------------------------:|
 | **Card** | 85.6mm &times; 53.95mm | 3.37 Inch &times; 2.125 Inch |
-| **QR code** | 24.3mm &times; 24.3mm | 0.96 Inch &times; 0.96 Inch |
+| **QR code** |   35mm &times; 35mm    | 1.38 Inch &times; 1.38 Inch  |
 
 ### Author
 

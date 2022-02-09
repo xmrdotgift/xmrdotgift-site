@@ -6,10 +6,10 @@ description: “Maybe you need a Monero“ orange gift card.
 
 ### Dimensions
 
-|    | Metric | Imperial |
-|----|:-----------:|:------:|
+|    |         Metric         |           Imperial           |
+|----|:----------------------:|:----------------------------:|
 | **Card** | 85.6mm &times; 53.95mm | 3.37 Inch &times; 2.125 Inch |
-| **QR code** | 18.6mm &times; 18.6mm | 0.73 Inch &times; 0.73 Inch |
+| **QR code** |   35mm &times; 35mm    | 1.38 Inch &times; 1.38 Inch  |
 
 ### Author
 
