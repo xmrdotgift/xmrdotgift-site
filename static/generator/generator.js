@@ -27,6 +27,10 @@ let formats = {
     "a4": {
         "width": 793,
         "height": 1122
+    },
+    "letter": {
+        "width": 815,
+        "height": 1053
     }
 };
 
@@ -61,14 +65,18 @@ function updateTemplatePreview(template) {
 
 function updateView(format, template, num_pages) {
     let page = document.getElementById("page");
+    page.innerHTML = "";
+
+    for ( let format in formats ) {
+        page.classList.remove("format_"+format);
+    }
+    page.classList.add("format_"+format);
 
     const qr_padding = 6;
     let qr_size = templates[template]["qr_size"];
     let page_width = formats[format]["width"];
     let page_height = formats[format]["height"];
     let qrs_per_page = Math.floor(page_width / (qr_size + qr_padding)) * Math.floor(page_height / (qr_size + qr_padding));
-
-    page.innerHTML = "";
 
     for ( var i = 0; i < qrs_per_page * num_pages; i++ ) {
         addNewQRContainer(page);
