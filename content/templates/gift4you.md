@@ -2,6 +2,8 @@
 title: "Gift4You"
 summary: "A beautiful orange gift card."
 description: "A beautiful orange gift card."
+cover:
+    image: /covers/template_gift4you.jpg
 ---
 
 ### Dimensions

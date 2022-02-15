@@ -2,6 +2,8 @@
 title: Black
 summary: Modern black-and-yellow gift card.
 description: Modern black-and-yellow gift card.
+cover:
+    image: /covers/template_black.jpg
 ---
 
 ### Dimensions

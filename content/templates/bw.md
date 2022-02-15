@@ -2,6 +2,8 @@
 title: Black & White
 summary: Save ink with this simple black and white template.
 description: Save ink with this simple black and white template.
+cover:
+    image: /covers/template_bw.jpg
 ---
 
 ### Dimensions

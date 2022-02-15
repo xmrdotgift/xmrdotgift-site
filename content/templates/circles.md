@@ -2,6 +2,8 @@
 title: Circles
 summary: “Maybe you need a Monero“ orange gift card.
 description: “Maybe you need a Monero“ orange gift card.
+cover:
+    image: /covers/template_circles.jpg
 ---
 
 ### Dimensions

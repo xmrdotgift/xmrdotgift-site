@@ -2,6 +2,8 @@
 title: Giftbox
 summary: Monero inside a gift box.
 description: Monero inside a gift box.
+cover:
+    image: /covers/template_giftbox.jpg
 ---
 
 ### Dimensions

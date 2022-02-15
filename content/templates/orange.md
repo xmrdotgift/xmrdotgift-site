@@ -2,6 +2,8 @@
 title: Orange
 summary: A beautiful orange gift card.
 description: A beautiful orange gift card.
+cover:
+    image: /covers/template_orange.jpg
 ---
 
 ### Dimensions
