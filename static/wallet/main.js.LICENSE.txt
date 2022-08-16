@@ -137,7 +137,7 @@
  * MIT Licensed
  */
 
-/*! Element Plus Icons Vue v2.0.6 */
+/*! Element Plus Icons Vue v2.0.9 */
 
 /*! https://mths.be/punycode v1.3.2 by @mathias */
 
