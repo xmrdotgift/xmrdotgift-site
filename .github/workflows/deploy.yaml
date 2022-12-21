@@ -16,6 +16,7 @@ jobs:
       - name: Deploy the site
         uses: benmatselby/hugo-deploy-gh-pages@master
         env:
+          HUGO_VERSION: 0.102.3
           TARGET_REPO: xmrdotgift/xmrdotgift.github.io
           TARGET_BRANCH: master
           TOKEN: ${{ secrets.TOKEN }}
